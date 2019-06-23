@@ -18,8 +18,8 @@
     "type": "git",
     "url": "git+https://github.com/lhchen74/anydoor.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["static server", "cli"],
+  "author": "lhchen74",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lhchen74/anydoor/issues"
